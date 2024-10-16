@@ -1,3 +1,6 @@
+Homework 2 Data Science 
+By Mayank Sharma
+
 Numpy Questions
 
 1. Define two custom numpy arrays, say A and B. Generate two new numpy
